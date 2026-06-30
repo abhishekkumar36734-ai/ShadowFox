@@ -1,0 +1,1 @@
+This project predicts Boston house price using machine learning. the model is traind on the Boston housing dataset using python and scikit-learn
